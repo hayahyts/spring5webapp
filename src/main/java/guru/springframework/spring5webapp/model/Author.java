@@ -1,4 +1,4 @@
-package guru.springframework.spring5webapp.domain.model;
+package guru.springframework.spring5webapp.model;
 
 import javax.persistence.*;
 import java.util.Objects;
